@@ -1,7 +1,7 @@
 # c316repo Wiley Internship
-<hr/>
-<p> this internship prepares candidates  for Global MNC's</p>  
-<p> the tools & technologies to be learned are as follows
+
+This internship prepares candidates  for Global MNC's
+he tools & technologies to be learned are as follows
 
 SQL - Beginners to Advance
 Python Essentials
